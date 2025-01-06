@@ -91,6 +91,3 @@ The API responds with appropriate HTTP status codes and error messages:
 - **Redis integration for scalability**: Mentions Redis used for caching and improving scalability.
 
 Let me know if you'd like any further changes!
-
-
-Let me know if you'd like further changes!
