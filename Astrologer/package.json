@@ -1,0 +1,25 @@
+{
+  "name": "astro_appointment_booking",
+  "version": "1.0.0",
+  "description": "Astro_appointment_booking",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Amit Ahirwar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "faker": "^6.6.6",
+    "ioredis": "^5.4.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.3",
+    "nodemon": "^3.1.9",
+    "redis": "^4.7.0"
+  }
+}
