@@ -85,4 +85,12 @@ The API responds with appropriate HTTP status codes and error messages:
 - Improved readability for steps to install, run, and test the project.
 - Specific example added for including JWT in headers.
 
+
+### Key Updates:
+- **Scalability section added**: Describes how the project is designed to handle a growing user base, supporting up to 500 astrologers and 2500 users seamlessly.
+- **Redis integration for scalability**: Mentions Redis used for caching and improving scalability.
+
+Let me know if you'd like any further changes!
+
+
 Let me know if you'd like further changes!
