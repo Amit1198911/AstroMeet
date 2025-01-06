@@ -87,7 +87,7 @@ The API responds with appropriate HTTP status codes and error messages:
 
 
 ### Key Updates:
-- **Scalability section added**: Describes how the project is designed to handle a growing user base, supporting up to 500 astrologers and 2500 users seamlessly.
+- **Scalability section added**: The project is designed in such a way to handle a growing user base, supporting up to 500 astrologers and 2500 users seamlessly.
 - **Redis integration for scalability**: Mentions Redis used for caching and improving scalability.
 
 Let me know if you'd like any further changes!
